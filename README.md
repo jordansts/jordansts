@@ -1,6 +1,8 @@
 ### Oi, meu nome é Jordan 
 
 - 💻 Estudo Sistemas de Informação na Universidade Federal de Sergipe.
+- 💻 Sou técnico em Desenvolvimento de Sistemas pelo SENAI.
+- 💻 Trabalho como Desenvolvedor Web.
 <br />
 
 ### Linguagens:
