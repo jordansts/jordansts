@@ -1,7 +1,9 @@
 <hr>
 <h3> Olá, meu nome é Jordan! </h3>
 <hr>
-
+Jordan Santos de Jesus
+<br />
+<br />
 💻 Trabalho como Desenvolvedor Web.
 <br />
 👨‍🎓 Estudo Sistemas de Informação na Universidade Federal de Sergipe. 
