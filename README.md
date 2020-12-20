@@ -1,5 +1,5 @@
 <hr>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  <h3>Olá, meu nome é Jordan!</h3> 
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  <h2>Olá, meu nome é Jordan!</h2> 
 <hr>
 
 💻 Trabalho como Desenvolvedor Web.
@@ -37,7 +37,7 @@
 <br />
 
 <hr>
-### Contato: 
-jordansantos2020@hotmail.com | 79 98869-3663
+<strong>Contato: </strong>
+ jordansantos2020@hotmail.com | 79 98869-3663
 
 <hr>
