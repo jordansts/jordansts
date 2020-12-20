@@ -1,8 +1,7 @@
 <hr>
 <h3> Olá, meu nome é Jordan! </h3>
 <hr>
-Jordan Santos de Jesus
-<br />
+### Jordan Santos de Jesus
 <br />
 💻 Trabalho como Desenvolvedor Web.
 <br />
