@@ -1,4 +1,4 @@
-<h2> Olá, meu nome é Jordan! </h2>
+<h3> Olá, meu nome é Jordan! </h3>
 <hr>
 
 💻 Trabalho como Desenvolvedor Web.
