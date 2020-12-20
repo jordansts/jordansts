@@ -1,5 +1,5 @@
 <hr>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  <h1>Olá, meu nome é Jordan!</h1> 
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  <h4>Olá, meu nome é Jordan!</h4> 
 <hr>
 
 💻 Trabalho como Desenvolvedor Web.
