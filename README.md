@@ -1,4 +1,4 @@
-###Olá, meu nome é Jordan! <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  
+<h2>Olá, meu nome é Jordan!</h2> <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />  
 <hr>
 
 💻 Trabalho como Desenvolvedor Web.
