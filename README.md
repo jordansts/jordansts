@@ -1,4 +1,5 @@
 ### Olá, meu nome é Jordan! <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<hr>
 
 💻 Trabalho como Desenvolvedor Web.
 <br />
@@ -6,7 +7,7 @@
 <br />
 👨‍🎓 Sou técnico em Desenvolvimento de Sistemas pelo SENAI.
 <br />
-<hr>
+
 ### Linguagens:
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/csharp.svg" />
@@ -36,3 +37,5 @@
 
 ### Contato: 
 jordansantos2020@hotmail.com | 79 98869-3663
+
+<hr>
