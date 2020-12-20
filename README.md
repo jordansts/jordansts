@@ -1,3 +1,4 @@
+<hr>
 <h3> Olá, meu nome é Jordan! </h3>
 <hr>
 
