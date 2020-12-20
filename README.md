@@ -3,8 +3,6 @@
 - 💻 Estudo Sistemas de Informação na Universidade Federal de Sergipe.
 - 💻 Sou técnico em Desenvolvimento de Sistemas pelo SENAI.
 - 💻 Trabalho como Desenvolvedor Web.
-<br />
-
 ### Linguagens:
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/csharp.svg" />
@@ -16,8 +14,6 @@
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/php.svg" />
 <img align="left" alt="Elm" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/elm.svg" />
 
-<br />
-
 ### Ferramentas: 
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/angular.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/reactjs.svg" />
@@ -25,7 +21,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/dotnet.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
 
 ### Redes Sociais:
 
