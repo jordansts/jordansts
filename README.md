@@ -6,7 +6,7 @@
 <br />
 💻 Trabalho como Desenvolvedor Web.
 <br />
-👨‍🎓 Estudo Sistemas de Informação na Universidade Federal de Sergipe. 
+👨‍🎓 Sou Baicharelando em Sistemas de Informação na Universidade Federal de Sergipe. 
 <br />
 👨‍🎓 Sou técnico em Desenvolvimento de Sistemas pelo SENAI.
 <br />
