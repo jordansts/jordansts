@@ -16,14 +16,19 @@
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/c.svg" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/csharp.svg" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/javascript.svg" />
+<img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/typescript.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/html5.svg" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/css3.svg" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/sass.svg" />
 <img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/php.svg" />
 <img align="left" alt="Elm" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/elm.svg" />
+
+
 <br />
 
 ### Ferramentas: 
+
+<img align="left" alt="Nodejs" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/nodejs.svg" />
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/angular.svg" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/reactjs.svg" />
 <img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/leopiccionia/programmicons/c859435eb1ffc200cecbfa0b27cda1e42479f64c/src/nodejs.svg" />
