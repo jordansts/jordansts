@@ -46,6 +46,6 @@
 
 <hr>
 <strong>Contato: </strong>
- jordansantos2020@hotmail.com | 79 98869-3663
+ jordansantos2020@hotmail.com
 
 <hr>
